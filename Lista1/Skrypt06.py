@@ -1,8 +1,5 @@
-import random
-from datetime import datetime
-
 gracze ={}
 for i in range(10):
-    gracze[f"Gracz{i+1}"] = [{datetime.now().strftime("%D"): random.randint(0, 100)}]
+    gracze[f"Gracz{i+1}"] = [{"10/10/23": i*5}]
 
 print(gracze)
