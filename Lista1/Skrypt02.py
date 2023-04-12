@@ -1,1 +1,1 @@
-print("Top 10 CS:GO Players:\n1.\tZywOo\n2.\tsh1ro\n3.\ts1mple\n4.\tblameF\n5.\tAx1Le\n6.\tNiKo\n7.\tfrozen\n8.\tm0NESY\n9.\tstavn\n10.\tTwistzz")
+print("Top 10 Players: \nPlayer1, \nPlayer2, \nPlayer3, \nPlayer4, \nPlayer5, \nPlayer6, \nPlayer7, \nPlayer8, \nPlayer9, \nPlayer10")

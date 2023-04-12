@@ -1,1 +1,1 @@
-print("Top 10 CS:GO Players: 1.\tZywOo 2.\tsh1ro 3.\ts1mple 4.\tblameF 5.\tAx1Le 6.\tNiKo 7.\tfrozen 8.\tm0NESY 9.\tstavn 10.\tTwistzz")
+print("Top 10 Players: Player1, Player2, Player3, Player4, Player5, Player6, Player7, Player8, Player9, Player10")
