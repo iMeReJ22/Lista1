@@ -1,0 +1,1 @@
+print("Top 10 CS:GO Players: 1.\tZywOo 2.\tsh1ro 3.\ts1mple 4.\tblameF 5.\tAx1Le 6.\tNiKo 7.\tfrozen 8.\tm0NESY 9.\tstavn 10.\tTwistzz")
